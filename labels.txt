@@ -1,0 +1,5 @@
+0 oben
+1 unten
+2 rechts
+3 links
+4 undefined
